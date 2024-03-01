@@ -1,2 +1,4 @@
 test1
 test1cat test.txt cat test.txt !
+branchtest2
+branchtest2
